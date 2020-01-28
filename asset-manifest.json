@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ivarunbansalportfolio/static/css/main.d1b05096.chunk.css",
+    "main.js": "/ivarunbansalportfolio/static/js/main.d03ad64a.chunk.js",
+    "main.js.map": "/ivarunbansalportfolio/static/js/main.d03ad64a.chunk.js.map",
+    "runtime-main.js": "/ivarunbansalportfolio/static/js/runtime-main.e6164ead.js",
+    "runtime-main.js.map": "/ivarunbansalportfolio/static/js/runtime-main.e6164ead.js.map",
+    "static/js/2.6987f592.chunk.js": "/ivarunbansalportfolio/static/js/2.6987f592.chunk.js",
+    "static/js/2.6987f592.chunk.js.map": "/ivarunbansalportfolio/static/js/2.6987f592.chunk.js.map",
+    "index.html": "/ivarunbansalportfolio/index.html",
+    "precache-manifest.f82c2d3e99cff3f18c1d594e74180cf0.js": "/ivarunbansalportfolio/precache-manifest.f82c2d3e99cff3f18c1d594e74180cf0.js",
+    "service-worker.js": "/ivarunbansalportfolio/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/ivarunbansalportfolio/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.6987f592.chunk.js.LICENSE": "/ivarunbansalportfolio/static/js/2.6987f592.chunk.js.LICENSE",
+    "static/media/logo.svg": "/ivarunbansalportfolio/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e6164ead.js",
+    "static/js/2.6987f592.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.d03ad64a.chunk.js"
+  ]
+}
