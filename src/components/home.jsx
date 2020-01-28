@@ -15,8 +15,9 @@ export default class Home extends Component {
               <div className="slider-text-inner js-fullheight">
                 <div className="desc">
                   <h1>Hi! <br />I'm Varun</h1>
-                  <h2>100% html5 bootstrap templates Made by <a href="https://colorlib.com/" target="_blank">colorlib.com</a></h2>
-                  <p><a className="btn btn-primary btn-learn">Download CV <i className="icon-download4" /></a></p>
+                  <h2>I love creating logics <a href="https://colorlib.com/" target="_blank">colorlib.com</a></h2>
+                  <p><a className="btn btn-primary btn-learn" href="https://docs.google.com/document/d/1Z5gUwK5Df-TzRBAuYtTM_FxqbZ7Hp7nYP7WDA_psgj0/edit?usp=sharing" target="_blank" rel="noopener noreferrer">View CV<i className="icon-download4" /></a></p>
+ 
                 </div>
               </div>
             </div>
