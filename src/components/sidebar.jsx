@@ -25,7 +25,7 @@ return(
           <li><a href="#" data-nav-section="skills">Skills</a></li>
           <li><a href="#" data-nav-section="education">Education</a></li>
           <li><a href="#" data-nav-section="experience">Experience</a></li>
-          <li><a href="#" data-nav-section="contact">Contact</a></li>
+          {/* <li><a href="#" data-nav-section="contact">Contact</a></li> */}
         </ul>
       </div>
     </nav>

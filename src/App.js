@@ -22,8 +22,7 @@ function App() {
       	<About></About>
          <Skills></Skills>
 					<Experience></Experience>
-          <Contact></Contact>
-          	</div>
+        	</div>
       	</div>
       </div>
     );
