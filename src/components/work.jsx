@@ -2,7 +2,10 @@ import React, { Component } from 'react'
 
 export default  class Work extends Component{
 
-render(){<section className="colorlib-work" data-section="work">
+render(){
+return(
+  <div>
+<section className="colorlib-work" data-section="work">
 <div className="colorlib-narrow-content">
   <div className="row">
     <div className="col-md-6 col-md-offset-3 col-md-pull-3 animate-box" data-animate-effect="fadeInLeft">
@@ -12,7 +15,7 @@ render(){<section className="colorlib-work" data-section="work">
   </div>
   <div className="row row-bottom-padded-sm animate-box" data-animate-effect="fadeInLeft">
     <div className="col-md-12">
-      <p className="work-menu"><span><a href="#" className="active">Graphic Design</a></span> <span><a href="#">Web Design</a></span> <span><a href="#">Software</a></span> <span><a href="#">Apps</a></span></p>
+      <p className="work-menu"><span><a href="#" className="active">Web Developement</a></span> <span><a href="#">Web Design</a></span> <span><a href="#">Software</a></span> <span><a href="#">Apps</a></span></p>
     </div>
   </div>
   <div className="row">
@@ -36,7 +39,7 @@ render(){<section className="colorlib-work" data-section="work">
         <div className="desc">
           <div className="con">
             <h3><a href="work.html">Work 02</a></h3>
-            <span>Animation</span>
+            <span>SOftware Developement</span>
             <p className="icon">
               <span><a href="#"><i className="icon-share3" /></a></span>
               <span><a href="#"><i className="icon-eye" /> 100</a></span>
@@ -51,7 +54,7 @@ render(){<section className="colorlib-work" data-section="work">
         <div className="desc">
           <div className="con">
             <h3><a href="work.html">Work 03</a></h3>
-            <span>Illustration</span>
+            <span>DevOps</span>
             <p className="icon">
               <span><a href="#"><i className="icon-share3" /></a></span>
               <span><a href="#"><i className="icon-eye" /> 100</a></span>
@@ -66,7 +69,7 @@ render(){<section className="colorlib-work" data-section="work">
         <div className="desc">
           <div className="con">
             <h3><a href="work.html">Work 04</a></h3>
-            <span>Application</span>
+            <span>DataBase Management</span>
             <p className="icon">
               <span><a href="#"><i className="icon-share3" /></a></span>
               <span><a href="#"><i className="icon-eye" /> 100</a></span>
@@ -114,12 +117,6 @@ render(){<section className="colorlib-work" data-section="work">
   </div>
 </div>
 </section>
-
-return(
-
-<div>
-
-
 
 </div>
 

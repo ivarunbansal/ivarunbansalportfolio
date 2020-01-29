@@ -17,7 +17,7 @@ return(
     </div>
     <div className="row">
       <div className="col-md-12 animate-box" data-animate-effect="fadeInLeft">
-        <p>The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn’t listen. She packed her seven versalia, put her initial into the belt and made herself on the way.</p>
+        <p></p>
       </div>
       <div className="col-md-6 animate-box" data-animate-effect="fadeInLeft">
         <div className="progress-wrap">
@@ -43,7 +43,7 @@ return(
         <div className="progress-wrap">
           <h3>MySql</h3>
           <div className="progress">
-            <div className="progress-bar color-3" role="progressbar" aria-valuenow={85} aria-valuemin={0} aria-valuemax={100} style={{width: '85%'}}>
+            <div className="progress-bar color-3" role="progressbar" aria-valuenow={50} aria-valuemin={0} aria-valuemax={100} style={{width: '50%'}}>
               <span>50%</span>
             </div>
           </div>
@@ -51,17 +51,17 @@ return(
       </div>
       <div className="col-md-6 animate-box" data-animate-effect="fadeInRight">
         <div className="progress-wrap">
-          <h3>CSS3</h3>
+          <h3>Mongo</h3>
           <div className="progress">
-            <div className="progress-bar color-4" role="progressbar" aria-valuenow={90} aria-valuemin={0} aria-valuemax={100} style={{width: '90%'}}>
-              <span>90%</span>
+            <div className="progress-bar color-4" role="progressbar" aria-valuenow={65} aria-valuemin={0} aria-valuemax={100} style={{width: '65%'}}>
+              <span>65%</span>
             </div>
           </div>
         </div>
       </div>
       <div className="col-md-6 animate-box" data-animate-effect="fadeInLeft">
         <div className="progress-wrap">
-          <h3>WordPress</h3>
+          <h3>Akka</h3>
           <div className="progress">
             <div className="progress-bar color-5" role="progressbar" aria-valuenow={70} aria-valuemin={0} aria-valuemax={100} style={{width: '70%'}}>
               <span>70%</span>
@@ -71,10 +71,10 @@ return(
       </div>
       <div className="col-md-6 animate-box" data-animate-effect="fadeInRight">
         <div className="progress-wrap">
-          <h3>SEO</h3>
+          <h3>Akka Http</h3>
           <div className="progress">
-            <div className="progress-bar color-6" role="progressbar" aria-valuenow={80} aria-valuemin={0} aria-valuemax={100} style={{width: '80%'}}>
-              <span>80%</span>
+            <div className="progress-bar color-6" role="progressbar" aria-valuenow={70} aria-valuemin={0} aria-valuemax={100} style={{width: '70%'}}>
+              <span>70%</span>
             </div>
           </div>
         </div>

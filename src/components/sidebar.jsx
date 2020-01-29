@@ -22,16 +22,24 @@ return(
         <ul>
           <li className="active"><a href="#" data-nav-section="home">Home</a></li>
           <li><a href="#" data-nav-section="about">About</a></li>
-          <li><a href="#" data-nav-section="services">Services</a></li>
           <li><a href="#" data-nav-section="skills">Skills</a></li>
           <li><a href="#" data-nav-section="education">Education</a></li>
           <li><a href="#" data-nav-section="experience">Experience</a></li>
-          <li><a href="#" data-nav-section="work">Work</a></li>
-          <li><a href="#" data-nav-section="blog">Blog</a></li>
           <li><a href="#" data-nav-section="contact">Contact</a></li>
         </ul>
       </div>
     </nav>
+
+    <nav id="colorlib-main-menu">
+              <ul>
+                <li><a href="https://www.facebook.com/varun.bansal.5030" target="_blank" rel="noopener noreferrer"><i className="icon-facebook2" /></a></li>
+                <li><a href="https://twitter.com/bansalvarun1994" target="_blank" rel="noopener noreferrer"><i className="icon-twitter2" /></a></li>
+                <li><a href="https://www.instagram.com/bansal.varun/" target="_blank" rel="noopener noreferrer"><i className="icon-instagram" /></a></li>
+                <li><a href="https://www.linkedin.com/in/varun-bansal-4219104b/" target="_blank" rel="noopener noreferrer"><i className="icon-linkedin2" /></a></li>
+                <li><a href="https://github.com/ivarunbansal" target="_blank" rel="noopener noreferrer"><i className="icon-github"></i></a></li>
+               </ul>
+            </nav>
+
     <div className="colorlib-footer">
       <p><small>© {/* Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. */}
           Copyright © All rights reserved | This template is made with <i className="icon-heart" aria-hidden="true" /> by <a href="https://colorlib.com" target="_blank">Colorlib</a>

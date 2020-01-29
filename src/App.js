@@ -9,6 +9,7 @@ import Skills from  './components/skills';
 import Sidebar from  './components/sidebar';
 import Timeline from './components/timeline'
 import { Experience } from './components/experience';
+import Work from './components/work'
 
 function App() {
  
@@ -18,9 +19,8 @@ function App() {
          	<Sidebar></Sidebar>
 				<div id="colorlib-main">
 					<Home></Home>
-					<About></About>
-         <Education></Education>
-            <Skills></Skills>
+      	<About></About>
+         <Skills></Skills>
 					<Experience></Experience>
           <Contact></Contact>
           	</div>

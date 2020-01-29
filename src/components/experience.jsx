@@ -23,62 +23,23 @@ return(
                 <i className="icon-pen2" />
               </div>
               <div className="timeline-label">
-                <h2><a href="#">Full Stack Developer</a> <span>2017-2018</span></h2>
-                <p>Tolerably earnestly middleton extremely distrusts she boy now not. Add and offered prepare how cordial two promise. Greatly who affixed suppose but enquire compact prepare all put. Added forth chief trees but rooms think may.</p>
+                <h2><a href="#">Backend Developer @ Xebia It architects Pvt ltd</a> <span>Aug2017-Jan2020</span></h2>
+                <p>Was involved and participated in various meetings such as Requirement gathering, attended various agile Ceremonies and discussions with
+Third party vendors
+• Was involved in creating Restful Web services for the various applications and was involved in requirement gathering
+• Domain (Aviation) -Worked on Crew PORTAL for a leading Airlines,which involved the functionality like creating leave system,rosters etc for the
+Crew.
+• Domain (Aviation) -Worked on flight booking website to develop several new features like review booking.Applied Adobe analytic throughout
+the website for the analysis of user data .Boosted the website performance using some Jvm tools.
+
+• Domain(Travel) - Worked on scala based incident management system for vehicles ,this system includes functionality of Authentica-
+tion,authorization,Creation of new incidents ,changing the status of incidents .I have completely migrated the back-end from obsolete spray
+
+framework to latest Akka Http framework.Also developed many new features.Worked to resolve application memory issues using Jvm tools</p>
               </div>
             </div>
           </article>
-          <article className="timeline-entry animate-box" data-animate-effect="fadeInRight">
-            <div className="timeline-entry-inner">
-              <div className="timeline-icon color-2">
-                <i className="icon-pen2" />
-              </div>
-              <div className="timeline-label">
-                <h2><a href="#">Front End Developer at Google Company</a> <span>2017-2018</span></h2>
-                <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.</p>
-              </div>
-            </div>
-          </article>
-          <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
-            <div className="timeline-entry-inner">
-              <div className="timeline-icon color-3">
-                <i className="icon-pen2" />
-              </div>
-              <div className="timeline-label">
-                <h2><a href="#">System Analyst</a> <span>2017-2018</span></h2>
-                <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.</p>
-              </div>
-            </div>
-          </article>
-          <article className="timeline-entry animate-box" data-animate-effect="fadeInTop">
-            <div className="timeline-entry-inner">
-              <div className="timeline-icon color-4">
-                <i className="icon-pen2" />
-              </div>
-              <div className="timeline-label">
-                <h2><a href="#">Creative Designer</a> <span>2017-2018</span></h2>
-                <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.</p>
-              </div>
-            </div>
-          </article>
-          <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
-            <div className="timeline-entry-inner">
-              <div className="timeline-icon color-5">
-                <i className="icon-pen2" />
-              </div>
-              <div className="timeline-label">
-                <h2><a href="#">UI/UX Designer at Envato</a> <span>2017-2018</span></h2>
-                <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.</p>
-              </div>
-            </div>
-          </article>
-          <article className="timeline-entry begin animate-box" data-animate-effect="fadeInBottom">
-            <div className="timeline-entry-inner">
-              <div className="timeline-icon color-none">
-              </div>
-            </div>
-          </article>
-        </div>
+          </div>
       </div>
     </div>
   </div>
