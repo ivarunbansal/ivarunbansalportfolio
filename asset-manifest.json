@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/ivarunbansalportfolio/static/css/main.d1b05096.chunk.css",
-    "main.js": "/ivarunbansalportfolio/static/js/main.bb38f529.chunk.js",
-    "main.js.map": "/ivarunbansalportfolio/static/js/main.bb38f529.chunk.js.map",
+    "main.js": "/ivarunbansalportfolio/static/js/main.12a52f59.chunk.js",
+    "main.js.map": "/ivarunbansalportfolio/static/js/main.12a52f59.chunk.js.map",
     "runtime-main.js": "/ivarunbansalportfolio/static/js/runtime-main.e6164ead.js",
     "runtime-main.js.map": "/ivarunbansalportfolio/static/js/runtime-main.e6164ead.js.map",
     "static/js/2.6987f592.chunk.js": "/ivarunbansalportfolio/static/js/2.6987f592.chunk.js",
     "static/js/2.6987f592.chunk.js.map": "/ivarunbansalportfolio/static/js/2.6987f592.chunk.js.map",
     "index.html": "/ivarunbansalportfolio/index.html",
-    "precache-manifest.51813da944cd7b5c7984811d5ae4d988.js": "/ivarunbansalportfolio/precache-manifest.51813da944cd7b5c7984811d5ae4d988.js",
+    "precache-manifest.26232a2c04c06b20565bdba8841449dd.js": "/ivarunbansalportfolio/precache-manifest.26232a2c04c06b20565bdba8841449dd.js",
     "service-worker.js": "/ivarunbansalportfolio/service-worker.js",
     "static/css/main.d1b05096.chunk.css.map": "/ivarunbansalportfolio/static/css/main.d1b05096.chunk.css.map",
     "static/js/2.6987f592.chunk.js.LICENSE": "/ivarunbansalportfolio/static/js/2.6987f592.chunk.js.LICENSE",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.e6164ead.js",
     "static/js/2.6987f592.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.bb38f529.chunk.js"
+    "static/js/main.12a52f59.chunk.js"
   ]
 }
